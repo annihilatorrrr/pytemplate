@@ -1,4 +1,4 @@
-FROM python:3.10.6-slim-bullseye
+FROM python:3.11.0b5-slim-bullseye
 # RUN chmod 777 /template
 # python3.10 -m venv venv && . ./venv/bin/activate
 ENV VIRTUAL_ENV=/opt/venv
