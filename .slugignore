@@ -19,7 +19,6 @@ coverage.xml
 *.cover
 *.log
 *.logs
-sagiri-logs.json
 *.session-journal
 *.session
 *.so
