@@ -1,5 +1,5 @@
 hiredis~=2.0.0
-Pyrogram~=2.0.55
+Pyrogram~=2.0.56
 pytz~=2022.2
 redis[hiredis]~=4.3.4
 TgCrypto~=1.2.3
