@@ -1,4 +1,3 @@
-hiredis~=2.0.0
 Pyrogram~=2.0.57
 pytz~=2022.2
 redis[hiredis]~=4.3.4
