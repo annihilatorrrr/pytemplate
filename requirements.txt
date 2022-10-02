@@ -1,5 +1,5 @@
 Pyrogram~=2.0.57
-pytz~=2022.2
+pytz~=2022.4
 redis[hiredis]~=4.3.4
 TgCrypto~=1.2.3
 uvloop~=0.17.0
