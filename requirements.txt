@@ -1,4 +1,4 @@
 Pyrogram~=2.0.62
-redis[hiredis]~=4.3.4
+redis[hiredis]~=4.3.5
 TgCrypto~=1.2.5
 uvloop~=0.17.0
