@@ -9,4 +9,4 @@ RUN apk add --no-cache --virtual .build-deps gcc musl-dev build-base linux-heade
 FROM base as final
 COPY . .
 RUN python3.11 -m compileall -b -o 2 . && rm -rf main.py requirements.txt
-CMD ["python3.11", "main.pyc"]
+ENTRYPOINT ["python3.11", "main.pyc"]
