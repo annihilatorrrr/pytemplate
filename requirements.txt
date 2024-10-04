@@ -1,5 +1,5 @@
 git+https://github.com/PyrogramMod/PyrogramMod@main  # Pyrogram~=2.0.106
-redis[hiredis]~=5.1.0
+redis[hiredis]~=5.1.1
 hiredis~=3.0.0
 TgCrypto~=1.2.5
 uvloop~=0.20.0
