@@ -1,4 +1,4 @@
-FROM python:3.13.3-alpine3.20
+FROM python:3.13.3-alpine3.22
 ENV VIRTUAL_ENV=/opt/venv
 RUN python3 -m venv $VIRTUAL_ENV
 WORKDIR /pytemplate
